@@ -15,6 +15,7 @@
 		E87E570021F8DD3B00C58B09 /* NetworkLabTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87E56FF21F8DD3B00C58B09 /* NetworkLabTests.swift */; };
 		E87E570B21F8DD3B00C58B09 /* NetworkLabUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E87E570A21F8DD3B00C58B09 /* NetworkLabUITests.swift */; };
 		E887A08121F8F349007F3784 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = E887A08021F8F349007F3784 /* Post.swift */; };
+		E8A6FB1021FB52F200AB9C90 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8A6FB0F21FB52F200AB9C90 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E87E570A21F8DD3B00C58B09 /* NetworkLabUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkLabUITests.swift; sourceTree = "<group>"; };
 		E87E570C21F8DD3B00C58B09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E887A08021F8F349007F3784 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		E8A6FB0F21FB52F200AB9C90 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				E87E56EA21F8DD3800C58B09 /* AppDelegate.swift */,
 				E87E56EC21F8DD3800C58B09 /* ViewController.swift */,
+				E8A6FB0F21FB52F200AB9C90 /* User.swift */,
 				E87E56EE21F8DD3800C58B09 /* Main.storyboard */,
 				E87E56F121F8DD3B00C58B09 /* Assets.xcassets */,
 				E87E56F321F8DD3B00C58B09 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E8A6FB1021FB52F200AB9C90 /* User.swift in Sources */,
 				E887A08121F8F349007F3784 /* Post.swift in Sources */,
 				E87E56ED21F8DD3800C58B09 /* ViewController.swift in Sources */,
 				E87E56EB21F8DD3800C58B09 /* AppDelegate.swift in Sources */,
